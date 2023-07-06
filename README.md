@@ -1,10 +1,10 @@
 # Project Title
 
-Simple overview of use/purpose.
+This is a simple Token contract implemented in Solidity. This contract allows for the creation and destruction of tokens, as well as store the information of the token.
 
 ## Description
+This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain.The contract  has ==mint function
 
-An in-depth paragraph about your project and overview of use.
 
 ## Getting Started
 
