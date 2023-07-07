@@ -3,7 +3,7 @@
 This is a simple Token contract implemented in Solidity. This contract allows for the creation and destruction of tokens, as well as store the information of the token.
 
 ## Description
-This program is a simple contract written in Solidity, a programming language used for token creation on the Ethereum blockchain.The contract contains three public variables that store the data of the token and two main functions `mint` & `burn` functions.
+This program is a simple contract written in Solidity, a programming language used for token creation on the Ethereum blockchain.The contract contains "three public variables" that stores the data of the token and two main functions `mint` & `burn` .
 1. The `mint` function increases the total supply(no.of Tokens in the account) and the balance of given address by given value.
 2. The `burn` function decreases the total supply(no.of Tokens in the account) and the balance of given address by given value
 
